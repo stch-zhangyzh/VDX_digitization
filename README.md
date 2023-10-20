@@ -1,2 +1,2 @@
-# VDX_digitization
-ML-based digitization for CEPC vertex detector
+# TBGan
+A predictor for the results of MOST2 testbeam
